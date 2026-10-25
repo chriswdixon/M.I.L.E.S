@@ -8,12 +8,12 @@ numpy==1.26.4
 openai==1.16.2
 openai-whisper
 openwakeword==0.6.0
-Pillow==10.3.0
+Pillow==13.0.0
 PyAudio==0.2.14
 pydub==0.25.1
-Requests==2.31.0
+Requests==2.33.0
 SpeechRecognition==3.10.1
-spotipy==2.23.0
+spotipy==2.25.2
 sympy==1.12
-urllib3==2.2.1
+urllib3==2.8.0
 TensorFlow
